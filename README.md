@@ -32,7 +32,7 @@ OneDice标准的来源并无一个最基本的追溯，起初它只是各类**TR
 我们的愿景是未来的开发者与用户可以在各类涉及此类由多种骰子与掷骰方式所组合而成的描述中灵活的应用这一统一的标准，降低开发与学习成本，使得社区活动可以将更多的注意力放在更具有独特性价值的事业中。  
 
 ## 支持骰系
-[OlivaDice](https://github.com/OlivOS-Team/OlivaDiceCore)
+[OlivaDice](https://github.com/OlivOS-Team/OlivaDiceCore)  
 [ZhaoDice](https://github.com/zhaodice/diceApp)
 
 ## 参考
