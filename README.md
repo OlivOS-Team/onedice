@@ -43,4 +43,4 @@ OneDice标准的来源并无一个最基本的追溯，起初它只是各类**TR
 
 ## 参考
 
-官方标准库[onedice.py](https://github.com/OlivOS-Team/onedice.py)  
+官方标准库[lib-onedice](https://github.com/OlivOS-Team/lib-onedice)  
