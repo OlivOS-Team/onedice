@@ -20,3 +20,20 @@ Kotlin | V1 | [zhaodice](https://github.com/zhaodice) | [OlivOS-Team/lib-onedice
 ```
 pip install onedice
 ```
+
+#### 使用
+##### 参考代码
+```python
+import onedice
+
+dice = onedice.RD("(1d8+2d100)*1d10")
+dice.roll()
+print(dice.resInt)
+print(dice.resError)
+```
+
+##### 输出结果
+```
+1296
+None
+```
