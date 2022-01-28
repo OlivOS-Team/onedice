@@ -7,3 +7,16 @@
 :-: | :-: | :-: | :--
 Python | V1 | [lunzhiPenxil](https://github.com/lunzhiPenxil) | [OlivOS-Team/lib-onedice/python](https://github.com/OlivOS-Team/lib-onedice/tree/main/python)
 Kotlin | V1 | [zhaodice](https://github.com/zhaodice) | [OlivOS-Team/lib-onedice/kotlin](https://github.com/OlivOS-Team/lib-onedice/tree/main/kotlin)
+
+### Python 版本
+![Pypi](https://img.shields.io/pypi/v/onedice.svg)
+
+#### 安装
+
+##### 从 PyPI 安装（推荐）
+
+- 使用 pip
+
+```
+pip install onedice
+```
