@@ -39,7 +39,6 @@ OneDice标准的来源并无一个最基本的追溯，起初它只是各类**TR
 
 [OlivaDice](https://github.com/OlivOS-Team/OlivaDiceCore)  
 [ZhaoDice](https://github.com/zhaodice/diceApp)  
-[SinaNyaDice](https://sinanya.com)
 
 ## 参考
 
