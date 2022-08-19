@@ -39,3 +39,21 @@ print(dice.resError)
 1296
 None
 ```
+
+### Node.js 版本
+
+#### 安装
+
+```
+npm install onedice
+```
+
+#### 使用
+
+##### 参考代码
+```ts
+import { OneDice } from 'onedice'
+
+const onedice = new OneDice()
+console.log(dice.calculate('(1d8+2d100)*1d10'))
+```
