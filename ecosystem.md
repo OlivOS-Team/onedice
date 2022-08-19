@@ -8,6 +8,7 @@
 Python | V1 | [lunzhiPenxil](https://github.com/lunzhiPenxil) | [OlivOS-Team/lib-onedice/python](https://github.com/OlivOS-Team/lib-onedice/tree/main/python)
 Kotlin | V1 | [zhaodice](https://github.com/zhaodice) | [OlivOS-Team/lib-onedice/kotlin](https://github.com/OlivOS-Team/lib-onedice/tree/main/kotlin)
 Rust | V1 | [abrahum](https://github.com/abrahum) | [abrahum/diro](https://github.com/abrahum/diro)
+Node.js | V1 | [Nanahira](https://twitter.com/Nana_Yumesaki) | [onedice.js](https://github.com/koishijs/onedice.js)
 
 ### Python 版本
 ![Pypi](https://img.shields.io/pypi/v/onedice.svg)
