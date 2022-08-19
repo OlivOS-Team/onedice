@@ -55,5 +55,5 @@ npm install onedice
 import { OneDice } from 'onedice'
 
 const onedice = new OneDice()
-console.log(dice.calculate('(1d8+2d100)*1d10'))
+console.log(onedice.calculate('(1d8+2d100)*1d10'))
 ```
