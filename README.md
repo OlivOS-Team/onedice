@@ -40,6 +40,12 @@ OneDice标准的来源并无一个最基本的追溯，起初它只是各类**TR
 [OlivaDice](https://github.com/OlivOS-Team/OlivaDiceCore)  
 [ZhaoDice](https://github.com/zhaodice/diceApp)  
 
+## 支持语言
++ Python
++ Kotlin
++ Rust
++ TypeScript
+
 ## 参考
 
 官方标准库[lib-onedice](https://github.com/OlivOS-Team/lib-onedice)  
