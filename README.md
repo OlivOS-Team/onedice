@@ -37,7 +37,7 @@ OneDice标准的来源并无一个最基本的追溯，起初它只是各类**TR
 
 ## 支持骰系
 + [OlivaDice](https://github.com/OlivOS-Team/OlivaDiceCore)  
-+ [ZhaoDice](https://github.com/zhaodice/diceApp)  
++ [ZhaoDice](https://trpgbot.com)  
 
 ## 支持语言
 + Python
