@@ -38,6 +38,7 @@ OneDice标准的来源并无一个最基本的追溯，起初它只是各类**TR
 ## 支持骰系
 + [OlivaDice](https://github.com/OlivOS-Team/OlivaDiceCore)  
 + [ZhaoDice](https://trpgbot.com)  
++ [koishi-plugin-dicex](https://npmjs.com/package/koishi-plugin-dicex)（非Koishi官方）  
 
 ## 支持语言
 + Python
