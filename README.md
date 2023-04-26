@@ -15,6 +15,7 @@ OneDice 意为 **通用掷骰串标准** ，是一个面向计算机行业的数
 
 ## 目录
 + [输入标准](./inputdescribe.md)
++ [成果](./achievement.md)
 + [生态](./ecosystem.md)
 
 ## 背景
